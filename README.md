@@ -36,4 +36,4 @@
 ## Социальные сети
 
 ![VKontakte](https://img.shields.io/badge/VKontakte-black?logo=vkontakte)
-![Telegram](https://img.shields.io/badge/Telegram-black?logo=telegram)
+![Telegram](https://img.shields.io/badge/Telegram-black?logo=telegram)](https://web.telegram.org/a/#827263729)
