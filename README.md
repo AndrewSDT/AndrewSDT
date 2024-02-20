@@ -20,10 +20,10 @@
 
 ## Языки и инструменты
 
-![Python](https://img.shields.io/badge/python-black?logo=python)
-![GitHub](https://img.shields.io/badge/github-black?logo=github)
-![Git](https://img.shields.io/badge/git-black?logo=git)
-![Charles](https://img.shields.io/badge/charles-black?logo=charles)
+![Python](https://img.shields.io/badge/Python-black?logo=python)
+![GitHub](https://img.shields.io/badge/Github-black?logo=github)
+![Git](https://img.shields.io/badge/Git-black?logo=git)
+![Charles](https://img.shields.io/badge/Charles-black?logo=charles)
 ![Fiddler](https://img.shields.io/badge/Fiddler-black?logo=Fiddler)
 ![SQL](https://img.shields.io/badge/Mysql-black?logo=Mysql)
 
@@ -35,5 +35,5 @@
 
 ## Социальные сети
 
-![VKontakte](https://img.shields.io/badge/vkontakte-black?logo=vkontakte)
-[!Telegram](https://img.shields.io/badge/Telegram-black?logo=telegram)
+![VKontakte](https://img.shields.io/badge/VKontakte-black?logo=vkontakte)
+![Telegram](https://img.shields.io/badge/Telegram-black?logo=telegram)
