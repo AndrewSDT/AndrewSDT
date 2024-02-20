@@ -31,7 +31,7 @@
 
 ## Проекты
 
-![Создание учебной базы данных](https://github.com/AndrewSDT/SQL.git)
+Создание учебной базы данных(https://github.com/AndrewSDT/SQL.git)
 
 ## Социальные сети
 
