@@ -21,6 +21,7 @@
 ## Навыки
 
 Языки и инструменты
+[Python](https://img.shields.io/badge/:badgeContent)
 
 Документация
 
