@@ -24,8 +24,8 @@
 ![GitHub](https://img.shields.io/badge/github-black?logo=github)
 ![Git](https://img.shields.io/badge/git-black?logo=git)
 ![Charles](https://img.shields.io/badge/charles-black?logo=charles)
-![Fiddler](https://img.shields.io/badge/fiddler-black?logo=fiddler)
-![SQL](https://img.shields.io/badge/sql-black?logo=sql)
+![Fiddler](https://img.shields.io/badge/Fiddler-black?logo=Fiddler)
+![SQL](https://img.shields.io/badge/Mysql-black?logo=Mysql)
 
 Документация
 
