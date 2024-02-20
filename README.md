@@ -20,7 +20,7 @@
 
 ## Языки и инструменты
 
-![Python](https://img.shields.io/badge/Python-8A2BE2)
+![Python](https://img.shields.io/badge/logo-python-blue?logo=python)
 ![GitHub](https://img.shields.io/badge/GitHub-orange)
 ![Git](https://img.shields.io/badge/Git-orange)
 ![Charles](https://img.shields.io/badge/Charles-white)
