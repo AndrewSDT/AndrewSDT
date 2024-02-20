@@ -29,6 +29,11 @@
 
 Документация
 
-Проекты
+## Проекты
 
-Социальные сети
+Создание учебной базы данных + запросы к ней
+
+## Социальные сети
+
+![VKontakte](https://img.shields.io/badge/vkontakte-black?logo=vkontakte)
+[!Telegram](https://img.shields.io/badge/Telegram-black?logo=telegram)
