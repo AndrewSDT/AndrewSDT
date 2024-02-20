@@ -21,11 +21,11 @@
 ## Языки и инструменты
 
 ![Python](https://img.shields.io/badge/python-black?logo=python)
-![GitHub](https://img.shields.io/badge/GitHub-orange)
-![Git](https://img.shields.io/badge/Git-orange)
-![Charles](https://img.shields.io/badge/Charles-white)
-![Fiddler](https://img.shields.io/badge/Fiddler-green)
-![SQL](https://img.shields.io/badge/SQL-pink)
+![GitHub](https://img.shields.io/badge/github-black?logo=github)
+![Git](https://img.shields.io/badge/git-black?logo=git)
+![Charles](https://img.shields.io/badge/charles-black?logo=charles)
+![Fiddler](https://img.shields.io/badge/fiddler-black?logo=fiddler)
+![SQL](https://img.shields.io/badge/sql-black?logo=sql)
 
 Документация
 
