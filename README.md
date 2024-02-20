@@ -31,7 +31,7 @@
 
 ## Проекты
 
-[![Создание базы данных](https://img.shields.io/badge/База данных-black?logo=mysql)](https://github.com/AndrewSDT/SQL.git)
+![Создание учебной базы данных](https://github.com/AndrewSDT/SQL.git)
 
 ## Социальные сети
 
