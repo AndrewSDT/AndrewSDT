@@ -1,7 +1,5 @@
 ### Портфолио 👋
 
-Заголовок
-
 ## Обо мне
 
 Опыт работы тестировщиком 1,5 года
@@ -22,7 +20,8 @@
 
 ## Языки и инструменты
 
-[Python](https://img.shields.io/badge/Python-blue)
+[Python](https://img.shields.io/badge/you_like-blue)
+![Static Badge](https://img.shields.io/badge/:badgeContent)
 GitHub
 Postman
 Charles
