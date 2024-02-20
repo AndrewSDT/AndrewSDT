@@ -21,11 +21,10 @@
 ## Языки и инструменты
 
 ![Python](https://img.shields.io/badge/Python-blue)
-GitHub
-Postman
-Charles
-Fiddler
-SQL
+![GitHub](https://img.shields.io/badge/GitHub-orange)
+![Charles](https://img.shields.io/badge/Charles-white)
+![Fiddler](https://img.shields.io/badge/Fiddler-green)
+![SQL](https://img.shields.io/badge/SQL-pink)
 
 Документация
 
