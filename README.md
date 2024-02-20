@@ -20,8 +20,7 @@
 
 ## Языки и инструменты
 
-[Python](https://img.shields.io/badge/you_like-blue)
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+![Python](https://img.shields.io/badge/you_like-blue)
 GitHub
 Postman
 Charles
