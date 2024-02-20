@@ -20,8 +20,14 @@
 
 ## Навыки
 
-Языки и инструменты
-[Python](https://img.shields.io/badge/:badgeContent)
+## Языки и инструменты
+
+[Python](https://img.shields.io/badge/Python-blue)
+GitHub
+Postman
+Charles
+Fiddler
+SQL
 
 Документация
 
