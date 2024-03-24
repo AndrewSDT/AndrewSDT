@@ -22,8 +22,8 @@
 - Регрессионное тестирование
 - Интеграционнное тестирование
 - Написание тестовой документации. Тест-кейсы,баг-репорты,чек-листы.
-- Создание SQL запросов. Примеры запросов https://github.com/AndrewSDT/SQL.git
-- Базовые навыки работы с Python. Примеры программ. https://github.com/AndrewSDT/PythonCode.git
+- Создание SQL запросов. ![Примеры запросов] (https://github.com/AndrewSDT/SQL.git)
+- Базовые навыки работы с Python. ![Примеры программ] (https://github.com/AndrewSDT/PythonCode.git)
 
 ## Языки и инструменты
 
