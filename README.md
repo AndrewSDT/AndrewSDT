@@ -18,6 +18,11 @@
 
 ## Навыки
 
+Функциональное тестирование
+Регрессионное тестирование
+Интеграционнное тестирование
+Написание тестовой документации. Тест-кейсы,баг-репорты,чек-листы.
+
 ## Языки и инструменты
 
 ![Python](https://img.shields.io/badge/Python-black?logo=python)
@@ -26,8 +31,6 @@
 ![Charles](https://img.shields.io/badge/Charles-black?logo=charles)
 ![Fiddler](https://img.shields.io/badge/Fiddler-black?logo=Fiddler)
 ![SQL](https://img.shields.io/badge/Mysql-black?logo=Mysql)
-
-Документация
 
 ## Проекты
 
