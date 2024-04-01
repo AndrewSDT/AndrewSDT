@@ -23,7 +23,7 @@
 - Интеграционнное тестирование
 - Написание тестовой документации. Тест-кейсы,баг-репорты,чек-листы.
 - Создание SQL запросов.
-- Базовые навыки работы с Python. ![Примеры кода на Pyhon](https://github.com/AndrewSDT/PythonCode.git)
+- Базовые навыки работы с Python. ![Примеры кода на Pyhon](https://github.com/AndrewSDT/PythonCode.git)(разрабатывается)
 
 ## Языки и инструменты
 
@@ -36,7 +36,7 @@
 
 ## Проекты
 
-![База данных](https://github.com/AndrewSDT/SQL.git)
+![База данных](https://github.com/AndrewSDT/SQL.git) (разрабатывается)
 
 ## Социальные сети
 
